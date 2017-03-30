@@ -9,6 +9,15 @@
 <body>
 <obj>Interesting books on democracy.</obj>
 
+ <p></p>
+<authorfirst>Jeffrey</authorfirst>
+<authormi>D. </authormi>
+<authorlast>Clements</authorlast>
+<btitle>Corporations ARE NOT People </btitle>
+<publisher>Berrett-Koehler Publishers, Inc. </publisher>
+<pubdate>2014 </pubdate>
+<pubcity>San Francisco </pubcity>
+
 <p></p>
 <authorfirst>Robert</authorfirst>
 <authormi>B.</authormi>
@@ -38,6 +47,16 @@
 <pubdate>November 2016 </pubdate>
 <pubcity>New York</pubcity>
 
+<p></p>
+<authorfirst>Sudhir</authorfirst>
+<authormi> </authormi>
+<authorlast>Venkatesh </authorlast>
+<btitle>Gang Leader for a Day: A Rogue Sociologist Takes to the Streets </btitle>
+<publisher>Peguin Books </publisher>
+<pubdate>2008 </pubdate>
+<pubcity>New York </pubcity>
+  
+  
 <p></p>
 <authorfirst></authorfirst>
 <authormi> </authormi>
