@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UT-8" ?>
+
+
+<name>Cathie Ryan</name>
+<street>41 Birch Drive</street>
+<town>Sterling</town> <State>MA</state>   <zip>01564</zip>
+
+
+<body>
+<obj>Interesting books on democracy.</obj>
+<p>
+<authorfirst>Bernie </authorfirst>
+<authormi> </authormi>
+<authorlast> Sanders</authorlast>
+<btitle>Our Revolution: A future to believe in</btitle>
+<publisher>Thomas Dunne Books</publisher>
+<pubdate>November 2016 </pubdate>
+<pubcity>New York</pubcity>
+
+
+
+<authorfirst>Bernie </authorfirst>
+<authormi> </authormi>
+<authorlast> </authorlast>
+<btitle> </btitle>
+<publisher> </publisher>
+<pubdate> </pubdate>
+<pubcity> </pubcity>
+
+
+</body>
