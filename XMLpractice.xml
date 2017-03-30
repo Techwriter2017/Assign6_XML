@@ -7,68 +7,68 @@
 
 
 <body>
+ 
 <obj>Interesting books on democracy.</obj>
 
- <p></p>
+<book>
 <authorfirst>Jeffrey</authorfirst>
 <authormi>D. </authormi>
 <authorlast>Clements</authorlast>
-<btitle>Corporations ARE NOT People </btitle>
+<btitle emphasis="italic">Corporations ARE NOT People </btitle>
 <publisher>Berrett-Koehler Publishers, Inc. </publisher>
 <pubdate>2014 </pubdate>
 <pubcity>San Francisco </pubcity>
+ </book>
 
-<p></p>
+<book>
 <authorfirst>Robert</authorfirst>
 <authormi>B.</authormi>
 <authorlast>Reich </authorlast>
-<btitle>Beyond Outrage: What Has Gone Wrong with Our Ecomony and Our Democracy, and How to Fix It</btitle>
+<btitle emphasis="italic">Beyond Outrage: What Has Gone Wrong with Our Ecomony and Our Democracy, and How to Fix It</btitle>
 <publisher>Vintage</publisher>
 <pubdate>2012</pubdate>
 <pubcity>New York</pubcity>
+ </book>
   
-<p></p>
+<book>
 <authorfirst>Robert</authorfirst>
 <authormi>B.</authormi>
 <authorlast>Reich</authorlast>
-<btitle>Saving Capitalism: For the Many, Not the Few  </btitle>
+<btitle emphasis="italic">Saving Capitalism: For the Many, Not the Few  </btitle>
 <publisher>Vintage </publisher>
 <pubdate>2016 </pubdate>
 <pubcity>New York </pubcity>
-  
-  
-  
-<p></p>
+ </book>  
+   
+<book>
 <authorfirst>Bernie </authorfirst>
 <authormi> </authormi>
 <authorlast> Sanders</authorlast>
-<btitle>Our Revolution: A future to believe in</btitle>
+<btitle emphasis="italic">Our Revolution: A future to believe in</btitle>
 <publisher>Thomas Dunne Books</publisher>
 <pubdate>November 2016 </pubdate>
 <pubcity>New York</pubcity>
+ </book>
 
-<p></p>
+<book>
 <authorfirst>Sudhir</authorfirst>
 <authormi> </authormi>
 <authorlast>Venkatesh </authorlast>
-<btitle>Gang Leader for a Day: A Rogue Sociologist Takes to the Streets </btitle>
+<btitle emphasis="italic">Gang Leader for a Day: A Rogue Sociologist Takes to the Streets </btitle>
 <publisher>Peguin Books </publisher>
 <pubdate>2008 </pubdate>
 <pubcity>New York </pubcity>
-  
-  
-<p></p>
+ </book>
+    
+<book>
 <authorfirst></authorfirst>
 <authormi> </authormi>
 <authorlast> </authorlast>
-<btitle> </btitle>
+<btitle emphasis="italic"> </btitle>
 <publisher> </publisher>
 <pubdate> </pubdate>
 <pubcity> </pubcity>
-
-
-  
-  
+ </book>
   
 </body>
 
