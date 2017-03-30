@@ -3,12 +3,33 @@
 
 <name>Cathie Ryan</name>
 <street>41 Birch Drive</street>
-<town>Sterling</town> <State>MA</state>   <zip>01564</zip>
+<town>Sterling</town> <state>MA</state>   <zip>01564</zip>
 
 
 <body>
 <obj>Interesting books on democracy.</obj>
-<p>
+
+<p></p>
+<authorfirst>Robert</authorfirst>
+<authormi>B.</authormi>
+<authorlast>Reich </authorlast>
+<btitle>Beyond Outrage: What Has Gone Wrong with Our Ecomony and Our Democracy, and How to Fix It</btitle>
+<publisher>Vintage</publisher>
+<pubdate>2012</pubdate>
+<pubcity>New York</pubcity>
+  
+<p></p>
+<authorfirst>Robert</authorfirst>
+<authormi>B.</authormi>
+<authorlast>Reich</authorlast>
+<btitle>Saving Capitalism: For the Many, Not the Few  </btitle>
+<publisher>Vintage </publisher>
+<pubdate>2016 </pubdate>
+<pubcity>New York </pubcity>
+  
+  
+  
+<p></p>
 <authorfirst>Bernie </authorfirst>
 <authormi> </authormi>
 <authorlast> Sanders</authorlast>
@@ -17,9 +38,8 @@
 <pubdate>November 2016 </pubdate>
 <pubcity>New York</pubcity>
 
-
-
-<authorfirst>Bernie </authorfirst>
+<p></p>
+<authorfirst></authorfirst>
 <authormi> </authormi>
 <authorlast> </authorlast>
 <btitle> </btitle>
@@ -28,4 +48,9 @@
 <pubcity> </pubcity>
 
 
+  
+  
+  
 </body>
+</xml>
+
