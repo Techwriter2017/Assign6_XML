@@ -61,13 +61,13 @@
  </book>
     
 <book>
-<authorfirst></authorfirst>
+<authorfirst>Thomas</authorfirst>
 <authormi> </authormi>
-<authorlast> </authorlast>
-<btitle emphasis="italic"> </btitle>
-<publisher> </publisher>
-<pubdate> </pubdate>
-<pubcity> </pubcity>
+<authorlast>Picketty </authorlast>
+<btitle emphasis="italic">The Economics of Inequality </btitle>
+<publisher>The Belknap Press of Harvard University Press </publisher>
+<pubdate>2015 </pubdate>
+<pubcity>Cambridge Massachusetts </pubcity>
  </book>
   
 </body>
